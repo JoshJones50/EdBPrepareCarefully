@@ -9,7 +9,7 @@
     <AssemblyName>EdBPrepareCarefully</AssemblyName>
     <ReleaseVersion>0.17.1.7</ReleaseVersion>
     <UseMSBuildEngine>False</UseMSBuildEngine>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v1.5.4</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
